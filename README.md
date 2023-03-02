@@ -23,7 +23,7 @@
 
 ## A Snake Eating My Contributions 🐍
 
-![snake gif](https://github.com/enes-telli/enes-telli/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/adeelwitty/adeelwitty/blob/main/github-contribution-grid-snake.gif)
 
 <!--
 ### Hi there 👋
