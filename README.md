@@ -1,10 +1,9 @@
-### Hi there 👋
 
 <h1 align="center">👋 Hi, I'm Adeel Riaz 👋</h1>
 <h3 align="center">🎮 Game Developer 🎮</h3>
 <h4 align="center">I am interested in game development. I am currently working with Unity Game Engine. You can check my LinkedIn account to see other games I've developed.</h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=51&duration=4000&color=F7F7F7&background=1E1E1E&multiline=true&width=1100&height=140&lines=public+static+PlayerController+Instance;void+Awake()+%3D%3E+Instance+%3D+this)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=51&duration=4000&color=F7F7F7&background=1E1E1E&multiline=true&width=1100&height=140&lines=public+static+GameManager+Instance;void+Awake()+%3D%3E+Instance+%3D+this)](https://git.io/typing-svg)
 
 ## Tech Toolbox 🧰
 
@@ -27,6 +26,8 @@
 ![snake gif](https://github.com/enes-telli/enes-telli/blob/output/github-contribution-grid-snake.gif)
 
 <!--
+### Hi there 👋
+
 **adeelwitty/adeelwitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
