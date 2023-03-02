@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">👋 Hi, I'm Enes Telli 👋</h1>
+<h1 align="center">👋 Hi, I'm Adeel Riaz 👋</h1>
 <h3 align="center">🎮 Game Developer 🎮</h3>
 <h4 align="center">I am interested in game development. I am currently working with Unity Game Engine. You can check my LinkedIn account to see other games I've developed.</h4>
 
