@@ -11,7 +11,18 @@
 
 ## <picture><img src = "https://github.com/adeelwitty/adeelwitty/blob/main/assets/mdimages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/adeelwitty/adeelwitty/blob/main/Right_Side.gif" width = 250px></picture>
+
+
+<br>
+
+- A passionate Self-taught Front-end developer
+- Playing CTF's at spare time
+- Currently learning Web Development by Self
+- Personal website [link](https://github.com/adeelwitty)
+- I’m currently open for an Intern or a new job opportunity
+
+<br><br>
 
 <br>
 
