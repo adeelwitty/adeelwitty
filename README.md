@@ -92,7 +92,29 @@
 
 ## A Snake Eating My Contributions 🐍
 
-![snake gif](https://github.com/adeelwitty/adeelwitty/blob/main/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/adeelwitty/adeelwitty/blob/main/assets/mdimages/github-contribution-grid-snake.gif)
+
+<br>
+<img src="https://github.com/adeelwitty/adeelwitty/blob/main/assets/mdimages/divider.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
+
+Credit: [Adeel Riaz](https://github.com/adeelwitty)
 
 <!--
 ### Hi there 👋
