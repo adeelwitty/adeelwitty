@@ -1,9 +1,19 @@
 
-<h1 align="center">👋 Hi, I'm Adeel Riaz 👋</h1>
+<h1 align="center"><b>Hi , I'm Adeel Riaz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">🎮 Game Developer 🎮</h3>
 <h4 align="center">I am interested in game development. I am currently working with Unity Game Engine. You can check my LinkedIn account to see other games I've developed.</h4>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=51&duration=4000&color=F7F7F7&background=1E1E1E&multiline=true&width=1100&height=140&lines=public+static+GameManager+Instance;void+Awake()+%3D%3E+Instance+%3D+this)](https://git.io/typing-svg)
+
+
+
+<br>
+
+## <picture><img src = "https://github.com/adeelwitty/adeelwitty/blob/main/assets/mdimages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 
 ## Tech Toolbox 🧰
 
