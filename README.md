@@ -97,16 +97,13 @@
 <br>
 <img src="https://github.com/adeelwitty/adeelwitty/blob/main/assets/mdimages/divider.gif">
 <br>
-<br>
-<br>
+
 
 <div align='center'>
 
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
-<br>
-<br>
 <br>
 <br>
 
